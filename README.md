@@ -8,7 +8,24 @@ The data layer is designed using dimensional modeling best practices, with clear
 The analytics layer is visualized using Power BI to highlight key marketing and customer performance trends. To keep the repository lightweight and accessible, the Power BI dashboard is documented through screenshots and explanations rather than storing large binary files.
 
 ## Repository Structure
-
+```
+Marketing-Analytics-Data-Modeling/
+├── README.md
+├── Marketing_Analytics_PowerBI.pbix
+├── Overview.png
+├── Conversion Details.png
+├── Social Media Details.png
+├── Customer Review Details.png
+│
+├── customer_reviews_enrichment_myVersion.py
+│
+├── dim_customers.sql
+├── dim_products.sql
+├── fact_customer_journ.sql
+├── fact_customer_reviews.sql
+├── fact_customer_reviews_enrich.xlsx
+└── fact_engagement_data.sql
+```
 
 ## Data Model
 - **Dimension Tables**
