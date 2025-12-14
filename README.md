@@ -38,3 +38,4 @@ The Power BI dashboard provides insights into:
 
 ## Notes
 The Power BI `.pbix` file is intentionally excluded due to file size limitations. Screenshots and documentation are provided to explain the dashboard structure and metrics.
+Find the images: Overview, Customer Review Details, Conversion Details, Social Media Details
